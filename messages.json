@@ -1,0 +1,37 @@
+[
+{
+       "messageID": "2677598244",
+       "messageNumber": 2,
+       "messageHash": "26:HEYHEY",
+       "recipient": "+27677159103",
+       "message": "hey",
+ },
+  {
+    "messageID": "7991049177",
+    "messageNumber": 1,
+    "messageHash": "79:1:WHEREYOU",
+    "recipient": "+27677159103",
+    "message": "where are you?"
+  },
+  {
+    "messageID": "7991049177",
+    "messageNumber": 1,
+    "messageHash": "79:1:WHEREYOU",
+    "recipient": "+27677159103",
+    "message": "where are you?"
+  },
+  {
+    "messageID": "3396355423",
+    "messageNumber": 1,
+    "messageHash": "33:1:HOW",
+    "recipient": "+27677159103",
+    "message": "how are you ?"
+  },
+  {
+    "messageID": "1163766364",
+    "messageNumber": 1,
+    "messageHash": "11:1:HOWBROTHER",
+    "recipient": "+27677159103",
+    "message": "how are you brother "
+  }
+]
